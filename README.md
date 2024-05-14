@@ -1,5 +1,5 @@
 # AZ Launcher API
-API & Plugin pour intégrer le AZ Launcher.
+API & Plugin pour intégrer le AZ Launcher (aka Pactify Launcher).
 
 ## Features
 
