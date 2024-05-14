@@ -1,4 +1,4 @@
-# AZClientAPI
+# AZ Launcher API
 API & Plugin pour intégrer le AZ Launcher.
 
 ## Features
