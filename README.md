@@ -1,5 +1,5 @@
 # AZClientAPI
-API & Plugin pour intégrer le AZ Launcher (aka Pactify Launcher).
+API & Plugin pour intégrer le AZ Launcher.
 
 ## Features
 
@@ -8,7 +8,7 @@ API & Plugin pour intégrer le AZ Launcher (aka Pactify Launcher).
 * Méthode pour savoir si un joueur utilise le launcher.
 * Récupérer une couleur au format int (0xAARRGGBB).
 * Manipulation des ItemStacks spéciaux (par [@THE_BATTEUR](https://github.com/THEBATTEUR)).
-* Compatible avec les serveurs **1.8.8** et **1.9.4** (voir la page [releases](https://github.com/Speccy42/AZClientAPI/releases)).
+* Compatible avec les serveurs **1.8.8** et **1.9.4** (Voir la page [releases](https://github.com/Speccy42/AZClientAPI/releases)).
 
 ## Installation
 > [!WARNING]
